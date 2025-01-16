@@ -123,12 +123,3 @@ Use a tool like [Postman](https://www.postman.com/) or [cURL](https://curl.se/) 
   docker-compose down
   ```
 
-## **Contributing**
-If you would like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with detailed explanations of your changes.
-
-## **License**
-This project is licensed under the MIT License.
-
